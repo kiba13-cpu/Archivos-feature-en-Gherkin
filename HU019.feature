@@ -1,4 +1,4 @@
-Feature: US39 - Eliminar cuenta
+Feature: US38 - Eliminar cuenta
   Scenario Outline: Borrado definitivo de datos personales
     Given el usuario solicita la eliminación permanente de su perfil
     When ingresa correctamente su <confirmacion_pin_seguridad>
